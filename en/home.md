@@ -1,10 +1,10 @@
 ---
 lang-ref: home
 layout: home
-title: Danish System of Scientific Collections
-description: Part of the European Project DiSSCo
-background:  "{{ site.data.images.shells_with_barcode.src }}"
-imageLicense: "{{ site.data.images.shells_with_barcode.caption }}"
+title: Comptes Rendus Palevol
+description: Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne flavusque omnibus, virginis socerque sparsos vidimus eundem.
+background:  "{{ site.data.images.catocala_ilia_cramer.src }}"
+imageLicense: "{{ site.data.images.catocala_ilia_cramer.caption }}"
 height: 90vh
 cta:
   - text: Specimens
