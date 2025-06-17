@@ -2,37 +2,21 @@
 lang-ref: home
 layout: home
 title: Zoosystema
-description: Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne flavusque omnibus, virginis socerque sparsos vidimus eundem.
-background:  "{{ site.data.images.catocala_ilia_cramer.src }}"
-imageLicense: "{{ site.data.images.catocala_ilia_cramer.caption }}"
+description: Browse data extracted from our publications
+background: /assets/images/placeholders/catocala_ilia_cramer_2365571744.jpg
+imageLicense:
 height: 90vh
 cta:
-  - text: Specimens
+  - text: Material citations
     href: /occurrence/search
-    isPrimary: true
-  - text: Datasets
+  - text: Publications
     href: /dataset/search
-  - text: About
-    href: /about
+    isPrimary: true
 composition:
-  - type: heroImage # the block type
+  - type: heroImage
   - type: stats
-    data: examples.stats
-  - type: split
-    data: examples.herbariumImageExample
-  - type: features
-    data: examples.couldBeAnyName
+    data: home.stats
+  - type: latestPosts
+    data: we_do_not_want_any_header   
 permalink: /
 ---
-
-Edit `/home.md` to change the text.
-
-Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne
-flavusque omnibus, virginis socerque sparsos vidimus eundem. Sustinet **ramo
-pontum ut** avus quamquam de trabes vestemque cruorem tremor.
-
-Viscera mercibus isdem hebetarat undas! Iubet ora ire unum telis adicit, si
-Telephus *valent*, instructo refers. Ille **est resque**, sic ruris erit ante
-profana detegeret. Et cogor tractus arboribus prensurum praesens memorantur
-neque inplet iussus temeraria merui **fas ecce** aethera dixit fieretque [plura
-tollebat altius](http://virgineusque.net/est.html).
