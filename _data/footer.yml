@@ -12,7 +12,7 @@ columns:
   - name: Publisher
     links:
       - text: National Museum of Natural History, Paris
-        href: https://sciencepress.mnhn.fr/
+        href: https://www.mnhn.fr/
      
   - name: Contact
     description: |
