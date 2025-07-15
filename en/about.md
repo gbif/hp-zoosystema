@@ -2,8 +2,8 @@
 permalink: about
 lang-ref: about
 title: About
-background: /assets/images/placeholders/specimen.png
-imageLicense:
+background: /assets/images/placeholders/vulturine.jpg
+imageLicense: Vulturine guinea fowl, feathers © MNHN – Laurent Bessol.
 height: 70vh
 ---
 [Zoosystema](https://sciencepress.mnhn.fr/en/periodiques/zoosystema) is a fully refereed, international, electronic open access journal in zoological research devoted to the inventory, analysis and interpretation of animal biodiversity, and covering subjects such as systematics and related fields: comparative, functional and evolutionary morphology, phylogeny, biogeography, taxonomy and nomenclature, etc.
