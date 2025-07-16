@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: Zoosystema
 description: Browse data extracted from our publications
-background: /assets/images/placeholders/vulturine.jpg
+background: /assets/images/placeholders/fowl.jpg
 imageLicense: _Vulturine guinea_ fowl, feathers. © MNHN – Laurent Bessol.
 height: 90vh
 cta:
