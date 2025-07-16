@@ -2,7 +2,7 @@
 permalink: about
 lang-ref: about
 title: About
-background: /assets/images/placeholders/vulturine.jpg
+background: /assets/images/placeholders/fowl.jpg
 imageLicense: _Vulturine guinea_ fowl, feathers. © MNHN – Laurent Bessol.
 height: 70vh
 ---
