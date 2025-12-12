@@ -6,7 +6,7 @@ background: /assets/images/placeholders/fowl.jpg
 imageLicense: _Vulturine guinea_ fowl, feathers. © MNHN – Laurent Bessol.
 height: 70vh
 ---
-[Zoosystema](https://sciencepress.mnhn.fr/en/periodiques/zoosystema) is a fully refereed, international, electronic and open access journal in zoological research devoted to the inventory and analysis of animal biodiversity, using museal reference collections. It is specialized in systematics and explores related fields such as comparative and functional morphology, phylogeny, biogeography, taxonomy and nomenclature, and original field observations.
+[Zoosystema](https://sciencepress.mnhn.fr/en/periodiques/zoosystema) is a fully refereed, international, electronic and diamond open access journal in zoological research devoted to the inventory and analysis of animal biodiversity, using museal reference collections. It is specialized in systematics and explores related fields such as comparative and functional morphology, phylogeny, biogeography, taxonomy and nomenclature, and original field observations.
 
 It provides immediate free open access to its content in order to support and encourage a greater global exchange of knowledge.
 
