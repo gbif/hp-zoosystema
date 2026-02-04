@@ -23,7 +23,7 @@ title: Zoosystema # the title of your site should go here
 email: zoosyst@mnhn.fr
 description: Zoosystema GBIF-hosted portal
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://zoosystema.hp.gbif.org/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://data.zoosystema.com/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Publi_MNHN # if you have an account you want to link to. Else comment this line out
 facebook_username: PublicationsMuseum
 instagram_username: publimnhn
